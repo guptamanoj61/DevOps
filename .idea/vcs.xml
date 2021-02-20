@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/certified-kubernetes-administrator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/certified-kubernetes-security-specialist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hashicorp-certified-vault-associate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform-beginner-to-advanced-resource" vcs="Git" />
+  </component>
+</project>
